@@ -20,7 +20,7 @@ My name is Thomaz Staziak and I'm a software developer/engineer. I'm from Brazil
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ThomazStaziak">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=7&username=ThomazStaziak&hide=html,css,hack,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=7&username=ThomazStaziak" />
 </a>
 <a href="https://github.com/ThomazStaziak">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomazStaziak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thomaz's GitHub Stats" />
