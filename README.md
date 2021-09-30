@@ -20,10 +20,10 @@ My name is Thomaz Staziak and I'm a software developer/engineer. I'm from Brazil
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ThomazStaziak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=7&username=ThomazStaziak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazStaziak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/ThomazStaziak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomazStaziak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thomaz's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazStaziak&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
 <a href="https://github.com/ThomazStaziak/42-Silicon_Valley">
