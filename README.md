@@ -17,7 +17,7 @@ My name is Thomaz Staziak and I'm a software developer/engineer. I'm from Brazil
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 
 <a href="https://github.com/ThomazStaziak">
@@ -34,7 +34,7 @@ My name is Thomaz Staziak and I'm a software developer/engineer. I'm from Brazil
 
 <a href="https://github.com/ThomazStaziak/thomazstaziak.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomazStaziak&repo=thomazstaziak.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>     -->
 
 <!-- links to social media icons -->
 
