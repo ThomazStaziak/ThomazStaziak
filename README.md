@@ -2,6 +2,8 @@
 
 My name is Thomaz Staziak and I'm a software developer/engineer. I'm from Brazil and currently working at Money Money invest. You can find me on [![LinkedIn][3.2]][3].
 
+[![ThomazStaziak](https://komarev.com/ghpvc/?username=ThomazStaziak)](https://github.com/ThomazStaziak)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
